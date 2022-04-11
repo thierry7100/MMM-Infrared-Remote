@@ -1,0 +1,22 @@
+{
+  "name": "MMM-Infrared-Remote",
+  "version": "0.0.1",
+  "description": "",
+  "main": "MMM-Infrared-Remote.js",
+  "dependencies": {
+    "child_process": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:thierry7100/MMM-Infrared-Remote.git"
+  },
+  "author": "Thierry Houdoin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thierry7100/MMM-Infrared-Remote/issues"
+  },
+  "homepage": "https://github.com/thierry7100/MMM-Infrared-Remote/#readme"
+}
